@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PdsBle</string>
+    <string name="txt_enviado">COMANDO PARA ENVIAR</string>
+    <string name="txt_recebido">COMANDO RECEBIDO</string>
+    <string name="txt_status" >STATUS: </string>
+    <string name="txt_scan">SCAN</string>
+    <string name="txt_enviar">ENVIAR</string>
+</resources>
